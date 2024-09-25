@@ -1,0 +1,25 @@
+[{
+  "file": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion2\\Ejemplo12\\main.cpp",
+  "directory": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion2\\Ejemplo12",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion2\\Ejemplo12\\main.cpp -o C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion2\\Ejemplo12\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion2\\Ejemplo10\\main.cpp",
+  "directory": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion2\\Ejemplo10",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion2\\Ejemplo10\\main.cpp -o C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion2\\Ejemplo10\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion2\\Ejemplo9\\main.cpp",
+  "directory": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion2\\Ejemplo9",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion2\\Ejemplo9\\main.cpp -o C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion2\\Ejemplo9\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion2\\Ejemplo11\\main.cpp",
+  "directory": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion2\\Ejemplo11",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion2\\Ejemplo11\\main.cpp -o C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion2\\Ejemplo11\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion2\\PasoArgumentos\\main.cpp",
+  "directory": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion2\\PasoArgumentos",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion2\\PasoArgumentos\\main.cpp -o C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion2\\PasoArgumentos\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion2\\PasoReferencia\\main.cpp",
+  "directory": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion2\\PasoReferencia",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion2\\PasoReferencia\\main.cpp -o C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion2\\PasoReferencia\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
